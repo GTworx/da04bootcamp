@@ -1,1 +1,1 @@
-select top 100 * from FLO
+select count(*) from customers
